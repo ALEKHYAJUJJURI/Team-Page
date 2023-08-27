@@ -1,0 +1,26 @@
+.bg-color {
+    
+    background-size: cover;
+    height: 100vh;
+   
+    width: 100vw;
+}
+.mentors-heading {
+    padding-left: 85px;
+}
+.buton-container {
+    
+    margin: 10px;
+    border: 5px;
+   border-radius: 7px;
+    border-color: rgb(108, 123, 212);
+  }
+button {
+    background-color: rgb(200, 215, 220);
+    font-weight: 400;
+    border-radius: 10px;
+    
+}
+.mentor-heading {
+    color: brown;
+}
